@@ -10,7 +10,6 @@ var websocket = require('./socket.js')
 server.listen(3000);
 
 // Setting up connection to mongoDB
-// var connString = 'mongodb://db1_test:password@dbh46.mongolab.com:27467/fire_the_laser'
 // mongoose.connect(connString)
 
 // registering router events 
