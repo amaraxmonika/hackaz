@@ -1,6 +1,4 @@
 // File interface for mongodb
-//var mongoose = require('mongoose')
-//var connString = 'mongodb://db1_test:password@dbh46.mongolab.com:27467/fire_the_laser'
 
 module.exports = function (mongoose, connString) {
     // setting up user schema
